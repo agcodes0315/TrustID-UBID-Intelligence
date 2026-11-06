@@ -1,6 +1,6 @@
 # 🔐TrustID
 
-### Adversarially Robust Unified Business Identifier & Active Business Intelligence Platform
+### Adversarially Robust Unified Business Identifier & Active Business Intelligence Platfor
 
 **A privacy-preserving, explainable and audit-defensible identity intelligence layer for Karnataka's business ecosystem.**
 
